@@ -1,8 +1,0 @@
-case "$notification_mode" in
-  default)
-    width=200
-    ;;
-  compact)
-    width=182
-    ;;
-esac
